@@ -1,6 +1,6 @@
 a = int(input())
 if a == 0:
-        print("Привет!")
+        print("Hello!")
         print("Здравствуйте!")
 else:
         print("Пока!")
